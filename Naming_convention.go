@@ -1,6 +1,6 @@
-package main
+package basics
 
-func main() {
+func basic() {
 	//pascal case >>> use for naming types of go
 	//eg: calculateareas , userinfo , NewHTTPRequest
 	//Structs, interfaces , enums
